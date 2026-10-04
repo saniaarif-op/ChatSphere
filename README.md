@@ -41,8 +41,5 @@ npm run dev
 
 Open the frontend URL shown by Vite.
 
-## Demo accounts
-Register two accounts from the Register screen. Open the app in two browser windows and log in as different users to test real-time messaging.
-
 ## EncoderX requirements covered
 WebSocket architecture, authentication handshake, rooms, persistent messages, sender/receiver/timestamps, live UI refresh, online/offline state, typing indicators, GitHub-ready source structure and documentation.
